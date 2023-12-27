@@ -1,5 +1,95 @@
 {
-    "allVideos":[],
-    "history":[],
-    "categories":[]
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "Leo song",
+      "url": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/leo-et00351731-1675663884.jpg",
+      "link": "https://www.youtube.com/embed/IqwIOlhfCak"
+    },
+    {
+      "id": "2",
+      "caption": "jawan Trailer",
+      "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/shah-rukh-khan--jawan--srk-films-295651-3x4.jpg?VersionId=RGX_q3pk2AWWdkkOYhypoZSFxDHwV.vF",
+      "link": "https://www.youtube.com/embed/MWOlnZSnXJo"
+    },
+    {
+      "id": "3",
+      "caption": "RDX song",
+      "url": "https://c.sop.saavncdn.com/The-Mallu-Alter-ego-0796-RDX-Malayalam-Movie-Review-Malayalam-2023-500x500.jpg",
+      "link": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "4",
+      "caption": "JS tutorial",
+      "url": "https://1.bp.blogspot.com/-TGQt5uRcAkg/XuMIJoAhwnI/AAAAAAAAA34/l8bWxNY_DwMrowIr4rjV7KHpUHTIDpsRQCLcBGAsYHQ/s1600/js.png",
+      "link": "https://www.youtube.com/embed/W6NZfCO5SIk"
+    },
+    {
+      "id": "5",
+      "caption": "Salaar Trailer",
+      "url": "https://m.media-amazon.com/images/M/MV5BOTk4ZDQ1ZTctNzU3MC00NmY4LWJjMzItNDMwZTA2ODhiYWM5XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+      "link": "https://www.youtube.com/embed/kcVBPvtIJDA"
+    }
+  ],
+  "history": [
+    {
+      "caption": "leo",
+      "link": "https:www.youtube.com/embed/IqwIOlhfCak",
+      "timeStamp": "12/19/2023, 05:25:58 PM",
+      "id": 1
+    },
+    {
+      "caption": "jawan",
+      "link": "https://www.youtube.com/embed/t_JxEektvQQ",
+      "timeStamp": "12/19/2023, 05:26:18 PM",
+      "id": 2
+    },
+    {
+      "caption": "Animal",
+      "link": "https://www.youtube.com/embed/Dydmpfo68DA",
+      "timeStamp": "12/23/2023, 12:04:44 PM",
+      "id": 3
+    },
+    {
+      "caption": "jawan",
+      "link": "https://www.youtube.com/embed/t_JxEektvQQ",
+      "timeStamp": "12/25/2023, 07:06:13 PM",
+      "id": 4
+    },
+    {
+      "caption": "salaar",
+      "link": "https://www.youtube.com/embed/4GPvYMKtrtI",
+      "timeStamp": "12/25/2023, 07:13:27 PM",
+      "id": 5
+    },
+    {
+      "caption": "jawan",
+      "link": "https://www.youtube.com/embed/t_JxEektvQQ",
+      "timeStamp": "12/25/2023, 09:07:51 PM",
+      "id": 6
+    },
+    {
+      "caption": "salaar",
+      "link": "https://www.youtube.com/embed/4GPvYMKtrtI",
+      "timeStamp": "12/26/2023, 11:12:40 AM",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "categoryName": "movies",
+      "allVideos": []
+    },
+    {
+      "id": 3,
+      "categoryName": "songs",
+      "allVideos": []
+    },
+    {
+      "id": 4,
+      "categoryName": "Programming Lang",
+      "allVideos": []
+    }
+  ]
 }
